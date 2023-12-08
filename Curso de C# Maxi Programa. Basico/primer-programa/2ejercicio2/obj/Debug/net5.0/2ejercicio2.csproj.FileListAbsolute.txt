@@ -1,0 +1,15 @@
+F:\Curso de C# Maxi Programa. Basico\2ejercicio2\obj\Debug\net5.0\2ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Curso de C# Maxi Programa. Basico\2ejercicio2\obj\Debug\net5.0\2ejercicio2.AssemblyInfoInputs.cache
+F:\Curso de C# Maxi Programa. Basico\2ejercicio2\obj\Debug\net5.0\2ejercicio2.AssemblyInfo.cs
+F:\Curso de C# Maxi Programa. Basico\2ejercicio2\obj\Debug\net5.0\2ejercicio2.csproj.CoreCompileInputs.cache
+F:\Curso de C# Maxi Programa. Basico\2ejercicio2\bin\Debug\net5.0\2ejercicio2.exe
+F:\Curso de C# Maxi Programa. Basico\2ejercicio2\bin\Debug\net5.0\2ejercicio2.deps.json
+F:\Curso de C# Maxi Programa. Basico\2ejercicio2\bin\Debug\net5.0\2ejercicio2.runtimeconfig.json
+F:\Curso de C# Maxi Programa. Basico\2ejercicio2\bin\Debug\net5.0\2ejercicio2.runtimeconfig.dev.json
+F:\Curso de C# Maxi Programa. Basico\2ejercicio2\bin\Debug\net5.0\2ejercicio2.dll
+F:\Curso de C# Maxi Programa. Basico\2ejercicio2\bin\Debug\net5.0\2ejercicio2.pdb
+F:\Curso de C# Maxi Programa. Basico\2ejercicio2\obj\Debug\net5.0\2ejercicio2.dll
+F:\Curso de C# Maxi Programa. Basico\2ejercicio2\obj\Debug\net5.0\refint\2ejercicio2.dll
+F:\Curso de C# Maxi Programa. Basico\2ejercicio2\obj\Debug\net5.0\2ejercicio2.pdb
+F:\Curso de C# Maxi Programa. Basico\2ejercicio2\obj\Debug\net5.0\2ejercicio2.genruntimeconfig.cache
+F:\Curso de C# Maxi Programa. Basico\2ejercicio2\obj\Debug\net5.0\ref\2ejercicio2.dll

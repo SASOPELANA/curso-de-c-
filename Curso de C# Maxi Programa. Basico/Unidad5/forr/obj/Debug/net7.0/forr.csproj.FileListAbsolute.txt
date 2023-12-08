@@ -1,0 +1,14 @@
+F:\Curso de C# Maxi Programa. Basico\Unidad5\forr\obj\Debug\net7.0\forr.GeneratedMSBuildEditorConfig.editorconfig
+F:\Curso de C# Maxi Programa. Basico\Unidad5\forr\obj\Debug\net7.0\forr.AssemblyInfoInputs.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad5\forr\obj\Debug\net7.0\forr.AssemblyInfo.cs
+F:\Curso de C# Maxi Programa. Basico\Unidad5\forr\obj\Debug\net7.0\forr.csproj.CoreCompileInputs.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad5\forr\bin\Debug\net7.0\forr.exe
+F:\Curso de C# Maxi Programa. Basico\Unidad5\forr\bin\Debug\net7.0\forr.deps.json
+F:\Curso de C# Maxi Programa. Basico\Unidad5\forr\bin\Debug\net7.0\forr.runtimeconfig.json
+F:\Curso de C# Maxi Programa. Basico\Unidad5\forr\bin\Debug\net7.0\forr.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad5\forr\bin\Debug\net7.0\forr.pdb
+F:\Curso de C# Maxi Programa. Basico\Unidad5\forr\obj\Debug\net7.0\forr.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad5\forr\obj\Debug\net7.0\refint\forr.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad5\forr\obj\Debug\net7.0\forr.pdb
+F:\Curso de C# Maxi Programa. Basico\Unidad5\forr\obj\Debug\net7.0\forr.genruntimeconfig.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad5\forr\obj\Debug\net7.0\ref\forr.dll

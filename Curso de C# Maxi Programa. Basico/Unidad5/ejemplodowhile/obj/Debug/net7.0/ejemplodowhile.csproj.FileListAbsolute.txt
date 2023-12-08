@@ -1,0 +1,14 @@
+F:\Curso de C# Maxi Programa. Basico\Unidad5\ejemplodowhile\bin\Debug\net7.0\ejemplodowhile.exe
+F:\Curso de C# Maxi Programa. Basico\Unidad5\ejemplodowhile\bin\Debug\net7.0\ejemplodowhile.deps.json
+F:\Curso de C# Maxi Programa. Basico\Unidad5\ejemplodowhile\bin\Debug\net7.0\ejemplodowhile.runtimeconfig.json
+F:\Curso de C# Maxi Programa. Basico\Unidad5\ejemplodowhile\bin\Debug\net7.0\ejemplodowhile.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad5\ejemplodowhile\bin\Debug\net7.0\ejemplodowhile.pdb
+F:\Curso de C# Maxi Programa. Basico\Unidad5\ejemplodowhile\obj\Debug\net7.0\ejemplodowhile.GeneratedMSBuildEditorConfig.editorconfig
+F:\Curso de C# Maxi Programa. Basico\Unidad5\ejemplodowhile\obj\Debug\net7.0\ejemplodowhile.AssemblyInfoInputs.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad5\ejemplodowhile\obj\Debug\net7.0\ejemplodowhile.AssemblyInfo.cs
+F:\Curso de C# Maxi Programa. Basico\Unidad5\ejemplodowhile\obj\Debug\net7.0\ejemplodowhile.csproj.CoreCompileInputs.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad5\ejemplodowhile\obj\Debug\net7.0\ejemplodowhile.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad5\ejemplodowhile\obj\Debug\net7.0\refint\ejemplodowhile.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad5\ejemplodowhile\obj\Debug\net7.0\ejemplodowhile.pdb
+F:\Curso de C# Maxi Programa. Basico\Unidad5\ejemplodowhile\obj\Debug\net7.0\ejemplodowhile.genruntimeconfig.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad5\ejemplodowhile\obj\Debug\net7.0\ref\ejemplodowhile.dll

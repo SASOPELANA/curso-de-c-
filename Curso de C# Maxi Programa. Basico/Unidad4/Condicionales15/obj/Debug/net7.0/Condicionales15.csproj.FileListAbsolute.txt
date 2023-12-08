@@ -1,0 +1,14 @@
+F:\Curso de C# Maxi Programa. Basico\Unidad4\Condicionales15\obj\Debug\net7.0\Condicionales15.GeneratedMSBuildEditorConfig.editorconfig
+F:\Curso de C# Maxi Programa. Basico\Unidad4\Condicionales15\obj\Debug\net7.0\Condicionales15.AssemblyInfoInputs.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad4\Condicionales15\obj\Debug\net7.0\Condicionales15.AssemblyInfo.cs
+F:\Curso de C# Maxi Programa. Basico\Unidad4\Condicionales15\obj\Debug\net7.0\Condicionales15.csproj.CoreCompileInputs.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad4\Condicionales15\bin\Debug\net7.0\Condicionales15.exe
+F:\Curso de C# Maxi Programa. Basico\Unidad4\Condicionales15\bin\Debug\net7.0\Condicionales15.deps.json
+F:\Curso de C# Maxi Programa. Basico\Unidad4\Condicionales15\bin\Debug\net7.0\Condicionales15.runtimeconfig.json
+F:\Curso de C# Maxi Programa. Basico\Unidad4\Condicionales15\bin\Debug\net7.0\Condicionales15.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad4\Condicionales15\bin\Debug\net7.0\Condicionales15.pdb
+F:\Curso de C# Maxi Programa. Basico\Unidad4\Condicionales15\obj\Debug\net7.0\Condicionales15.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad4\Condicionales15\obj\Debug\net7.0\refint\Condicionales15.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad4\Condicionales15\obj\Debug\net7.0\Condicionales15.pdb
+F:\Curso de C# Maxi Programa. Basico\Unidad4\Condicionales15\obj\Debug\net7.0\Condicionales15.genruntimeconfig.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad4\Condicionales15\obj\Debug\net7.0\ref\Condicionales15.dll

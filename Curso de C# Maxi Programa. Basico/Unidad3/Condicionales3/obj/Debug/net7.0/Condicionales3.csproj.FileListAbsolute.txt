@@ -1,0 +1,14 @@
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales3\obj\Debug\net7.0\Condicionales3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales3\obj\Debug\net7.0\Condicionales3.AssemblyInfoInputs.cache
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales3\obj\Debug\net7.0\Condicionales3.AssemblyInfo.cs
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales3\obj\Debug\net7.0\Condicionales3.csproj.CoreCompileInputs.cache
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales3\bin\Debug\net7.0\Condicionales3.exe
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales3\bin\Debug\net7.0\Condicionales3.deps.json
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales3\bin\Debug\net7.0\Condicionales3.runtimeconfig.json
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales3\bin\Debug\net7.0\Condicionales3.dll
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales3\bin\Debug\net7.0\Condicionales3.pdb
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales3\obj\Debug\net7.0\Condicionales3.dll
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales3\obj\Debug\net7.0\refint\Condicionales3.dll
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales3\obj\Debug\net7.0\Condicionales3.pdb
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales3\obj\Debug\net7.0\Condicionales3.genruntimeconfig.cache
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales3\obj\Debug\net7.0\ref\Condicionales3.dll

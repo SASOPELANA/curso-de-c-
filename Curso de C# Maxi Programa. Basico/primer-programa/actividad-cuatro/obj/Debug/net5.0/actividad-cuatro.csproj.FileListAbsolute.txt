@@ -1,0 +1,15 @@
+F:\Curso de C# Maxi Programa. Basico\actividad-cuatro\obj\Debug\net5.0\actividad-cuatro.GeneratedMSBuildEditorConfig.editorconfig
+F:\Curso de C# Maxi Programa. Basico\actividad-cuatro\obj\Debug\net5.0\actividad-cuatro.AssemblyInfoInputs.cache
+F:\Curso de C# Maxi Programa. Basico\actividad-cuatro\obj\Debug\net5.0\actividad-cuatro.AssemblyInfo.cs
+F:\Curso de C# Maxi Programa. Basico\actividad-cuatro\obj\Debug\net5.0\actividad-cuatro.csproj.CoreCompileInputs.cache
+F:\Curso de C# Maxi Programa. Basico\actividad-cuatro\bin\Debug\net5.0\actividad-cuatro.exe
+F:\Curso de C# Maxi Programa. Basico\actividad-cuatro\bin\Debug\net5.0\actividad-cuatro.deps.json
+F:\Curso de C# Maxi Programa. Basico\actividad-cuatro\bin\Debug\net5.0\actividad-cuatro.runtimeconfig.json
+F:\Curso de C# Maxi Programa. Basico\actividad-cuatro\bin\Debug\net5.0\actividad-cuatro.runtimeconfig.dev.json
+F:\Curso de C# Maxi Programa. Basico\actividad-cuatro\bin\Debug\net5.0\actividad-cuatro.dll
+F:\Curso de C# Maxi Programa. Basico\actividad-cuatro\bin\Debug\net5.0\actividad-cuatro.pdb
+F:\Curso de C# Maxi Programa. Basico\actividad-cuatro\obj\Debug\net5.0\actividad-cuatro.dll
+F:\Curso de C# Maxi Programa. Basico\actividad-cuatro\obj\Debug\net5.0\refint\actividad-cuatro.dll
+F:\Curso de C# Maxi Programa. Basico\actividad-cuatro\obj\Debug\net5.0\actividad-cuatro.pdb
+F:\Curso de C# Maxi Programa. Basico\actividad-cuatro\obj\Debug\net5.0\actividad-cuatro.genruntimeconfig.cache
+F:\Curso de C# Maxi Programa. Basico\actividad-cuatro\obj\Debug\net5.0\ref\actividad-cuatro.dll

@@ -1,0 +1,15 @@
+F:\Curso de C# Maxi Programa. Basico\actividad-cinco\obj\Debug\net5.0\actividad-cinco.GeneratedMSBuildEditorConfig.editorconfig
+F:\Curso de C# Maxi Programa. Basico\actividad-cinco\obj\Debug\net5.0\actividad-cinco.AssemblyInfoInputs.cache
+F:\Curso de C# Maxi Programa. Basico\actividad-cinco\obj\Debug\net5.0\actividad-cinco.AssemblyInfo.cs
+F:\Curso de C# Maxi Programa. Basico\actividad-cinco\obj\Debug\net5.0\actividad-cinco.csproj.CoreCompileInputs.cache
+F:\Curso de C# Maxi Programa. Basico\actividad-cinco\bin\Debug\net5.0\actividad-cinco.exe
+F:\Curso de C# Maxi Programa. Basico\actividad-cinco\bin\Debug\net5.0\actividad-cinco.deps.json
+F:\Curso de C# Maxi Programa. Basico\actividad-cinco\bin\Debug\net5.0\actividad-cinco.runtimeconfig.json
+F:\Curso de C# Maxi Programa. Basico\actividad-cinco\bin\Debug\net5.0\actividad-cinco.runtimeconfig.dev.json
+F:\Curso de C# Maxi Programa. Basico\actividad-cinco\bin\Debug\net5.0\actividad-cinco.dll
+F:\Curso de C# Maxi Programa. Basico\actividad-cinco\bin\Debug\net5.0\actividad-cinco.pdb
+F:\Curso de C# Maxi Programa. Basico\actividad-cinco\obj\Debug\net5.0\actividad-cinco.dll
+F:\Curso de C# Maxi Programa. Basico\actividad-cinco\obj\Debug\net5.0\refint\actividad-cinco.dll
+F:\Curso de C# Maxi Programa. Basico\actividad-cinco\obj\Debug\net5.0\actividad-cinco.pdb
+F:\Curso de C# Maxi Programa. Basico\actividad-cinco\obj\Debug\net5.0\actividad-cinco.genruntimeconfig.cache
+F:\Curso de C# Maxi Programa. Basico\actividad-cinco\obj\Debug\net5.0\ref\actividad-cinco.dll

@@ -1,0 +1,15 @@
+F:\Curso de C# Maxi Programa. Basico\actividad-tres\obj\Debug\net5.0\actividad-tres.GeneratedMSBuildEditorConfig.editorconfig
+F:\Curso de C# Maxi Programa. Basico\actividad-tres\obj\Debug\net5.0\actividad-tres.AssemblyInfoInputs.cache
+F:\Curso de C# Maxi Programa. Basico\actividad-tres\obj\Debug\net5.0\actividad-tres.AssemblyInfo.cs
+F:\Curso de C# Maxi Programa. Basico\actividad-tres\obj\Debug\net5.0\actividad-tres.csproj.CoreCompileInputs.cache
+F:\Curso de C# Maxi Programa. Basico\actividad-tres\bin\Debug\net5.0\actividad-tres.exe
+F:\Curso de C# Maxi Programa. Basico\actividad-tres\bin\Debug\net5.0\actividad-tres.deps.json
+F:\Curso de C# Maxi Programa. Basico\actividad-tres\bin\Debug\net5.0\actividad-tres.runtimeconfig.json
+F:\Curso de C# Maxi Programa. Basico\actividad-tres\bin\Debug\net5.0\actividad-tres.runtimeconfig.dev.json
+F:\Curso de C# Maxi Programa. Basico\actividad-tres\bin\Debug\net5.0\actividad-tres.dll
+F:\Curso de C# Maxi Programa. Basico\actividad-tres\bin\Debug\net5.0\actividad-tres.pdb
+F:\Curso de C# Maxi Programa. Basico\actividad-tres\obj\Debug\net5.0\actividad-tres.dll
+F:\Curso de C# Maxi Programa. Basico\actividad-tres\obj\Debug\net5.0\refint\actividad-tres.dll
+F:\Curso de C# Maxi Programa. Basico\actividad-tres\obj\Debug\net5.0\actividad-tres.pdb
+F:\Curso de C# Maxi Programa. Basico\actividad-tres\obj\Debug\net5.0\actividad-tres.genruntimeconfig.cache
+F:\Curso de C# Maxi Programa. Basico\actividad-tres\obj\Debug\net5.0\ref\actividad-tres.dll

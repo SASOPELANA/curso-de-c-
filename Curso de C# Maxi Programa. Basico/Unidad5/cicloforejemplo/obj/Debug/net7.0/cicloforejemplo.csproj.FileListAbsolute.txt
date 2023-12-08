@@ -1,0 +1,14 @@
+F:\Curso de C# Maxi Programa. Basico\Unidad5\cicloforejemplo\bin\Debug\net7.0\cicloforejemplo.exe
+F:\Curso de C# Maxi Programa. Basico\Unidad5\cicloforejemplo\bin\Debug\net7.0\cicloforejemplo.deps.json
+F:\Curso de C# Maxi Programa. Basico\Unidad5\cicloforejemplo\bin\Debug\net7.0\cicloforejemplo.runtimeconfig.json
+F:\Curso de C# Maxi Programa. Basico\Unidad5\cicloforejemplo\bin\Debug\net7.0\cicloforejemplo.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad5\cicloforejemplo\bin\Debug\net7.0\cicloforejemplo.pdb
+F:\Curso de C# Maxi Programa. Basico\Unidad5\cicloforejemplo\obj\Debug\net7.0\cicloforejemplo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Curso de C# Maxi Programa. Basico\Unidad5\cicloforejemplo\obj\Debug\net7.0\cicloforejemplo.AssemblyInfoInputs.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad5\cicloforejemplo\obj\Debug\net7.0\cicloforejemplo.AssemblyInfo.cs
+F:\Curso de C# Maxi Programa. Basico\Unidad5\cicloforejemplo\obj\Debug\net7.0\cicloforejemplo.csproj.CoreCompileInputs.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad5\cicloforejemplo\obj\Debug\net7.0\cicloforejemplo.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad5\cicloforejemplo\obj\Debug\net7.0\refint\cicloforejemplo.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad5\cicloforejemplo\obj\Debug\net7.0\cicloforejemplo.pdb
+F:\Curso de C# Maxi Programa. Basico\Unidad5\cicloforejemplo\obj\Debug\net7.0\cicloforejemplo.genruntimeconfig.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad5\cicloforejemplo\obj\Debug\net7.0\ref\cicloforejemplo.dll

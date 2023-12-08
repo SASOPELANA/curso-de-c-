@@ -1,0 +1,15 @@
+F:\Curso de C# Maxi Programa. Basico\calculadora\obj\Debug\net5.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+F:\Curso de C# Maxi Programa. Basico\calculadora\obj\Debug\net5.0\calculadora.AssemblyInfoInputs.cache
+F:\Curso de C# Maxi Programa. Basico\calculadora\obj\Debug\net5.0\calculadora.AssemblyInfo.cs
+F:\Curso de C# Maxi Programa. Basico\calculadora\obj\Debug\net5.0\calculadora.csproj.CoreCompileInputs.cache
+F:\Curso de C# Maxi Programa. Basico\calculadora\bin\Debug\net5.0\calculadora.exe
+F:\Curso de C# Maxi Programa. Basico\calculadora\bin\Debug\net5.0\calculadora.deps.json
+F:\Curso de C# Maxi Programa. Basico\calculadora\bin\Debug\net5.0\calculadora.runtimeconfig.json
+F:\Curso de C# Maxi Programa. Basico\calculadora\bin\Debug\net5.0\calculadora.runtimeconfig.dev.json
+F:\Curso de C# Maxi Programa. Basico\calculadora\bin\Debug\net5.0\calculadora.dll
+F:\Curso de C# Maxi Programa. Basico\calculadora\bin\Debug\net5.0\calculadora.pdb
+F:\Curso de C# Maxi Programa. Basico\calculadora\obj\Debug\net5.0\calculadora.dll
+F:\Curso de C# Maxi Programa. Basico\calculadora\obj\Debug\net5.0\refint\calculadora.dll
+F:\Curso de C# Maxi Programa. Basico\calculadora\obj\Debug\net5.0\calculadora.pdb
+F:\Curso de C# Maxi Programa. Basico\calculadora\obj\Debug\net5.0\calculadora.genruntimeconfig.cache
+F:\Curso de C# Maxi Programa. Basico\calculadora\obj\Debug\net5.0\ref\calculadora.dll

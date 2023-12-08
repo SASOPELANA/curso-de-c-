@@ -1,0 +1,14 @@
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\Condicionales11\obj\Debug\net7.0\Condicionales11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\Condicionales11\obj\Debug\net7.0\Condicionales11.AssemblyInfoInputs.cache
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\Condicionales11\obj\Debug\net7.0\Condicionales11.AssemblyInfo.cs
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\Condicionales11\obj\Debug\net7.0\Condicionales11.csproj.CoreCompileInputs.cache
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\Condicionales11\bin\Debug\net7.0\Condicionales11.exe
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\Condicionales11\bin\Debug\net7.0\Condicionales11.deps.json
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\Condicionales11\bin\Debug\net7.0\Condicionales11.runtimeconfig.json
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\Condicionales11\bin\Debug\net7.0\Condicionales11.dll
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\Condicionales11\bin\Debug\net7.0\Condicionales11.pdb
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\Condicionales11\obj\Debug\net7.0\Condicionales11.dll
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\Condicionales11\obj\Debug\net7.0\refint\Condicionales11.dll
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\Condicionales11\obj\Debug\net7.0\Condicionales11.pdb
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\Condicionales11\obj\Debug\net7.0\Condicionales11.genruntimeconfig.cache
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\Condicionales11\obj\Debug\net7.0\ref\Condicionales11.dll

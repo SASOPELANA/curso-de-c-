@@ -1,0 +1,14 @@
+F:\Curso de C# Maxi Programa. Basico\Unidad5\ciclowhile1\bin\Debug\net7.0\ciclowhile1.exe
+F:\Curso de C# Maxi Programa. Basico\Unidad5\ciclowhile1\bin\Debug\net7.0\ciclowhile1.deps.json
+F:\Curso de C# Maxi Programa. Basico\Unidad5\ciclowhile1\bin\Debug\net7.0\ciclowhile1.runtimeconfig.json
+F:\Curso de C# Maxi Programa. Basico\Unidad5\ciclowhile1\bin\Debug\net7.0\ciclowhile1.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad5\ciclowhile1\bin\Debug\net7.0\ciclowhile1.pdb
+F:\Curso de C# Maxi Programa. Basico\Unidad5\ciclowhile1\obj\Debug\net7.0\ciclowhile1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Curso de C# Maxi Programa. Basico\Unidad5\ciclowhile1\obj\Debug\net7.0\ciclowhile1.AssemblyInfoInputs.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad5\ciclowhile1\obj\Debug\net7.0\ciclowhile1.AssemblyInfo.cs
+F:\Curso de C# Maxi Programa. Basico\Unidad5\ciclowhile1\obj\Debug\net7.0\ciclowhile1.csproj.CoreCompileInputs.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad5\ciclowhile1\obj\Debug\net7.0\ciclowhile1.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad5\ciclowhile1\obj\Debug\net7.0\refint\ciclowhile1.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad5\ciclowhile1\obj\Debug\net7.0\ciclowhile1.pdb
+F:\Curso de C# Maxi Programa. Basico\Unidad5\ciclowhile1\obj\Debug\net7.0\ciclowhile1.genruntimeconfig.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad5\ciclowhile1\obj\Debug\net7.0\ref\ciclowhile1.dll

@@ -1,0 +1,15 @@
+F:\Curso de C# Maxi Programa. Basico\primer-programa\bin\Debug\net5.0\primer-programa.exe
+F:\Curso de C# Maxi Programa. Basico\primer-programa\bin\Debug\net5.0\primer-programa.deps.json
+F:\Curso de C# Maxi Programa. Basico\primer-programa\bin\Debug\net5.0\primer-programa.runtimeconfig.json
+F:\Curso de C# Maxi Programa. Basico\primer-programa\bin\Debug\net5.0\primer-programa.runtimeconfig.dev.json
+F:\Curso de C# Maxi Programa. Basico\primer-programa\bin\Debug\net5.0\primer-programa.dll
+F:\Curso de C# Maxi Programa. Basico\primer-programa\bin\Debug\net5.0\primer-programa.pdb
+F:\Curso de C# Maxi Programa. Basico\primer-programa\obj\Debug\net5.0\primer-programa.GeneratedMSBuildEditorConfig.editorconfig
+F:\Curso de C# Maxi Programa. Basico\primer-programa\obj\Debug\net5.0\primer-programa.AssemblyInfoInputs.cache
+F:\Curso de C# Maxi Programa. Basico\primer-programa\obj\Debug\net5.0\primer-programa.AssemblyInfo.cs
+F:\Curso de C# Maxi Programa. Basico\primer-programa\obj\Debug\net5.0\primer-programa.csproj.CoreCompileInputs.cache
+F:\Curso de C# Maxi Programa. Basico\primer-programa\obj\Debug\net5.0\primer-programa.dll
+F:\Curso de C# Maxi Programa. Basico\primer-programa\obj\Debug\net5.0\refint\primer-programa.dll
+F:\Curso de C# Maxi Programa. Basico\primer-programa\obj\Debug\net5.0\primer-programa.pdb
+F:\Curso de C# Maxi Programa. Basico\primer-programa\obj\Debug\net5.0\primer-programa.genruntimeconfig.cache
+F:\Curso de C# Maxi Programa. Basico\primer-programa\obj\Debug\net5.0\ref\primer-programa.dll

@@ -1,0 +1,14 @@
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\Condicionales12mmaxi\obj\Debug\net7.0\Condicionales12mmaxi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\Condicionales12mmaxi\obj\Debug\net7.0\Condicionales12mmaxi.AssemblyInfoInputs.cache
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\Condicionales12mmaxi\obj\Debug\net7.0\Condicionales12mmaxi.AssemblyInfo.cs
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\Condicionales12mmaxi\obj\Debug\net7.0\Condicionales12mmaxi.csproj.CoreCompileInputs.cache
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\Condicionales12mmaxi\bin\Debug\net7.0\Condicionales12mmaxi.exe
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\Condicionales12mmaxi\bin\Debug\net7.0\Condicionales12mmaxi.deps.json
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\Condicionales12mmaxi\bin\Debug\net7.0\Condicionales12mmaxi.runtimeconfig.json
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\Condicionales12mmaxi\bin\Debug\net7.0\Condicionales12mmaxi.dll
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\Condicionales12mmaxi\bin\Debug\net7.0\Condicionales12mmaxi.pdb
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\Condicionales12mmaxi\obj\Debug\net7.0\Condicionales12mmaxi.dll
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\Condicionales12mmaxi\obj\Debug\net7.0\refint\Condicionales12mmaxi.dll
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\Condicionales12mmaxi\obj\Debug\net7.0\Condicionales12mmaxi.pdb
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\Condicionales12mmaxi\obj\Debug\net7.0\Condicionales12mmaxi.genruntimeconfig.cache
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\Condicionales12mmaxi\obj\Debug\net7.0\ref\Condicionales12mmaxi.dll

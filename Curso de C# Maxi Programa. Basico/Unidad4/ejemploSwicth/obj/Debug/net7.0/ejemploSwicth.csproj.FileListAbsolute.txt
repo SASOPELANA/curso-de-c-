@@ -1,0 +1,4 @@
+F:\Curso de C# Maxi Programa. Basico\Unidad4\ejemploSwicth\obj\Debug\net7.0\ejemploSwicth.GeneratedMSBuildEditorConfig.editorconfig
+F:\Curso de C# Maxi Programa. Basico\Unidad4\ejemploSwicth\obj\Debug\net7.0\ejemploSwicth.AssemblyInfoInputs.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad4\ejemploSwicth\obj\Debug\net7.0\ejemploSwicth.AssemblyInfo.cs
+F:\Curso de C# Maxi Programa. Basico\Unidad4\ejemploSwicth\obj\Debug\net7.0\ejemploSwicth.csproj.CoreCompileInputs.cache

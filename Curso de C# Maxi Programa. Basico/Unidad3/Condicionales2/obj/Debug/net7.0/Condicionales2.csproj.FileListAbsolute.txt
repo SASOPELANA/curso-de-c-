@@ -1,0 +1,14 @@
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales2\bin\Debug\net7.0\Condicionales2.exe
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales2\bin\Debug\net7.0\Condicionales2.deps.json
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales2\bin\Debug\net7.0\Condicionales2.runtimeconfig.json
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales2\bin\Debug\net7.0\Condicionales2.dll
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales2\bin\Debug\net7.0\Condicionales2.pdb
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales2\obj\Debug\net7.0\Condicionales2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales2\obj\Debug\net7.0\Condicionales2.AssemblyInfoInputs.cache
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales2\obj\Debug\net7.0\Condicionales2.AssemblyInfo.cs
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales2\obj\Debug\net7.0\Condicionales2.csproj.CoreCompileInputs.cache
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales2\obj\Debug\net7.0\Condicionales2.dll
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales2\obj\Debug\net7.0\refint\Condicionales2.dll
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales2\obj\Debug\net7.0\Condicionales2.pdb
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales2\obj\Debug\net7.0\Condicionales2.genruntimeconfig.cache
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales2\obj\Debug\net7.0\ref\Condicionales2.dll

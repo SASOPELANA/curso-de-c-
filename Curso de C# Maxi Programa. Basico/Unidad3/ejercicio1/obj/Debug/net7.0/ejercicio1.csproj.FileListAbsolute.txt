@@ -1,0 +1,14 @@
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\ejercicio1\bin\Debug\net7.0\ejercicio1.exe
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\ejercicio1\bin\Debug\net7.0\ejercicio1.deps.json
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\ejercicio1\bin\Debug\net7.0\ejercicio1.runtimeconfig.json
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\ejercicio1\bin\Debug\net7.0\ejercicio1.dll
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\ejercicio1\bin\Debug\net7.0\ejercicio1.pdb
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\ejercicio1\obj\Debug\net7.0\ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\ejercicio1\obj\Debug\net7.0\ejercicio1.AssemblyInfoInputs.cache
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\ejercicio1\obj\Debug\net7.0\ejercicio1.AssemblyInfo.cs
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\ejercicio1\obj\Debug\net7.0\ejercicio1.csproj.CoreCompileInputs.cache
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\ejercicio1\obj\Debug\net7.0\ejercicio1.dll
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\ejercicio1\obj\Debug\net7.0\refint\ejercicio1.dll
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\ejercicio1\obj\Debug\net7.0\ejercicio1.pdb
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\ejercicio1\obj\Debug\net7.0\ejercicio1.genruntimeconfig.cache
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\ejercicio1\obj\Debug\net7.0\ref\ejercicio1.dll

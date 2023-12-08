@@ -1,0 +1,14 @@
+F:\Curso de C# Maxi Programa. Basico\Unidad4\Condicionales13maxi\bin\Debug\net7.0\Condicionales13maxi.exe
+F:\Curso de C# Maxi Programa. Basico\Unidad4\Condicionales13maxi\bin\Debug\net7.0\Condicionales13maxi.deps.json
+F:\Curso de C# Maxi Programa. Basico\Unidad4\Condicionales13maxi\bin\Debug\net7.0\Condicionales13maxi.runtimeconfig.json
+F:\Curso de C# Maxi Programa. Basico\Unidad4\Condicionales13maxi\bin\Debug\net7.0\Condicionales13maxi.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad4\Condicionales13maxi\bin\Debug\net7.0\Condicionales13maxi.pdb
+F:\Curso de C# Maxi Programa. Basico\Unidad4\Condicionales13maxi\obj\Debug\net7.0\Condicionales13maxi.GeneratedMSBuildEditorConfig.editorconfig
+F:\Curso de C# Maxi Programa. Basico\Unidad4\Condicionales13maxi\obj\Debug\net7.0\Condicionales13maxi.AssemblyInfoInputs.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad4\Condicionales13maxi\obj\Debug\net7.0\Condicionales13maxi.AssemblyInfo.cs
+F:\Curso de C# Maxi Programa. Basico\Unidad4\Condicionales13maxi\obj\Debug\net7.0\Condicionales13maxi.csproj.CoreCompileInputs.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad4\Condicionales13maxi\obj\Debug\net7.0\Condicionales13maxi.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad4\Condicionales13maxi\obj\Debug\net7.0\refint\Condicionales13maxi.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad4\Condicionales13maxi\obj\Debug\net7.0\Condicionales13maxi.pdb
+F:\Curso de C# Maxi Programa. Basico\Unidad4\Condicionales13maxi\obj\Debug\net7.0\Condicionales13maxi.genruntimeconfig.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad4\Condicionales13maxi\obj\Debug\net7.0\ref\Condicionales13maxi.dll

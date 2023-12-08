@@ -1,0 +1,14 @@
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales3maxi\obj\Debug\net7.0\Condicionales3maxi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales3maxi\obj\Debug\net7.0\Condicionales3maxi.AssemblyInfoInputs.cache
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales3maxi\obj\Debug\net7.0\Condicionales3maxi.AssemblyInfo.cs
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales3maxi\obj\Debug\net7.0\Condicionales3maxi.csproj.CoreCompileInputs.cache
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales3maxi\bin\Debug\net7.0\Condicionales3maxi.exe
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales3maxi\bin\Debug\net7.0\Condicionales3maxi.deps.json
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales3maxi\bin\Debug\net7.0\Condicionales3maxi.runtimeconfig.json
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales3maxi\bin\Debug\net7.0\Condicionales3maxi.dll
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales3maxi\bin\Debug\net7.0\Condicionales3maxi.pdb
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales3maxi\obj\Debug\net7.0\Condicionales3maxi.dll
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales3maxi\obj\Debug\net7.0\refint\Condicionales3maxi.dll
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales3maxi\obj\Debug\net7.0\Condicionales3maxi.pdb
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales3maxi\obj\Debug\net7.0\Condicionales3maxi.genruntimeconfig.cache
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales3maxi\obj\Debug\net7.0\ref\Condicionales3maxi.dll
