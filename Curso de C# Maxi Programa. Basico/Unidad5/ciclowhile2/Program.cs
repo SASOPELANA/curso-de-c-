@@ -23,7 +23,6 @@ namespace ciclowhile2
             mayor = n1;
           }
           x++;
-
         } 
 
         Console.WriteLine("El numero mayor es: " + mayor);
