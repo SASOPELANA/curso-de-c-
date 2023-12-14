@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Curso de C# Maxi Programa. Basico\\Unidad5\\ciclofor3\\ciclofor3.csproj": {}
+    "/mnt/f/Curso de C# Maxi Programa. Basico/Unidad5/ciclofor3/ciclofor3.csproj": {}
   },
   "projects": {
-    "F:\\Curso de C# Maxi Programa. Basico\\Unidad5\\ciclofor3\\ciclofor3.csproj": {
+    "/mnt/f/Curso de C# Maxi Programa. Basico/Unidad5/ciclofor3/ciclofor3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Curso de C# Maxi Programa. Basico\\Unidad5\\ciclofor3\\ciclofor3.csproj",
+        "projectUniqueName": "/mnt/f/Curso de C# Maxi Programa. Basico/Unidad5/ciclofor3/ciclofor3.csproj",
         "projectName": "ciclofor3",
-        "projectPath": "F:\\Curso de C# Maxi Programa. Basico\\Unidad5\\ciclofor3\\ciclofor3.csproj",
-        "packagesPath": "C:\\Users\\sergio\\.nuget\\packages\\",
-        "outputPath": "F:\\Curso de C# Maxi Programa. Basico\\Unidad5\\ciclofor3\\obj\\",
+        "projectPath": "/mnt/f/Curso de C# Maxi Programa. Basico/Unidad5/ciclofor3/ciclofor3.csproj",
+        "packagesPath": "/home/sopekof/.nuget/packages/",
+        "outputPath": "/mnt/f/Curso de C# Maxi Programa. Basico/Unidad5/ciclofor3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sergio\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/sopekof/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,15 @@
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad5/ciclowhile4/bin/Debug/net8.0/ciclowhile4
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad5/ciclowhile4/bin/Debug/net8.0/ciclowhile4.deps.json
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad5/ciclowhile4/bin/Debug/net8.0/ciclowhile4.runtimeconfig.json
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad5/ciclowhile4/bin/Debug/net8.0/ciclowhile4.dll
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad5/ciclowhile4/bin/Debug/net8.0/ciclowhile4.pdb
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad5/ciclowhile4/obj/Debug/net8.0/ciclowhile4.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad5/ciclowhile4/obj/Debug/net8.0/ciclowhile4.AssemblyInfoInputs.cache
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad5/ciclowhile4/obj/Debug/net8.0/ciclowhile4.AssemblyInfo.cs
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad5/ciclowhile4/obj/Debug/net8.0/ciclowhile4.csproj.CoreCompileInputs.cache
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad5/ciclowhile4/obj/Debug/net8.0/ciclowhile4.sourcelink.json
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad5/ciclowhile4/obj/Debug/net8.0/ciclowhile4.dll
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad5/ciclowhile4/obj/Debug/net8.0/refint/ciclowhile4.dll
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad5/ciclowhile4/obj/Debug/net8.0/ciclowhile4.pdb
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad5/ciclowhile4/obj/Debug/net8.0/ciclowhile4.genruntimeconfig.cache
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad5/ciclowhile4/obj/Debug/net8.0/ref/ciclowhile4.dll

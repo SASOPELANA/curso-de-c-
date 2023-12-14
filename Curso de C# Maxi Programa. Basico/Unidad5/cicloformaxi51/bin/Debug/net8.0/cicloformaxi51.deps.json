@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "cicloformaxi51/1.0.0": {
+        "runtime": {
+          "cicloformaxi51.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cicloformaxi51/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

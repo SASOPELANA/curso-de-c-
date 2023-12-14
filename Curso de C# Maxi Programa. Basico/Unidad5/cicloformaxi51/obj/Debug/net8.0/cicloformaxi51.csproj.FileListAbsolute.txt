@@ -1,0 +1,15 @@
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad5/cicloformaxi51/obj/Debug/net8.0/cicloformaxi51.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad5/cicloformaxi51/obj/Debug/net8.0/cicloformaxi51.AssemblyInfoInputs.cache
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad5/cicloformaxi51/obj/Debug/net8.0/cicloformaxi51.AssemblyInfo.cs
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad5/cicloformaxi51/obj/Debug/net8.0/cicloformaxi51.csproj.CoreCompileInputs.cache
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad5/cicloformaxi51/obj/Debug/net8.0/cicloformaxi51.sourcelink.json
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad5/cicloformaxi51/bin/Debug/net8.0/cicloformaxi51
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad5/cicloformaxi51/bin/Debug/net8.0/cicloformaxi51.deps.json
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad5/cicloformaxi51/bin/Debug/net8.0/cicloformaxi51.runtimeconfig.json
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad5/cicloformaxi51/bin/Debug/net8.0/cicloformaxi51.dll
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad5/cicloformaxi51/bin/Debug/net8.0/cicloformaxi51.pdb
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad5/cicloformaxi51/obj/Debug/net8.0/cicloformaxi51.dll
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad5/cicloformaxi51/obj/Debug/net8.0/refint/cicloformaxi51.dll
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad5/cicloformaxi51/obj/Debug/net8.0/cicloformaxi51.pdb
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad5/cicloformaxi51/obj/Debug/net8.0/cicloformaxi51.genruntimeconfig.cache
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad5/cicloformaxi51/obj/Debug/net8.0/ref/cicloformaxi51.dll
