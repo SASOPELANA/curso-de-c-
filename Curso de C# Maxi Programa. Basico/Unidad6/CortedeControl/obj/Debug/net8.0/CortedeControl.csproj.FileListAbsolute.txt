@@ -1,0 +1,15 @@
+F:\Curso de C# Maxi Programa. Basico\Unidad6\CortedeControl\obj\Debug\net8.0\CortedeControl.GeneratedMSBuildEditorConfig.editorconfig
+F:\Curso de C# Maxi Programa. Basico\Unidad6\CortedeControl\obj\Debug\net8.0\CortedeControl.AssemblyInfoInputs.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad6\CortedeControl\obj\Debug\net8.0\CortedeControl.AssemblyInfo.cs
+F:\Curso de C# Maxi Programa. Basico\Unidad6\CortedeControl\obj\Debug\net8.0\CortedeControl.csproj.CoreCompileInputs.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad6\CortedeControl\obj\Debug\net8.0\CortedeControl.sourcelink.json
+F:\Curso de C# Maxi Programa. Basico\Unidad6\CortedeControl\bin\Debug\net8.0\CortedeControl.exe
+F:\Curso de C# Maxi Programa. Basico\Unidad6\CortedeControl\bin\Debug\net8.0\CortedeControl.deps.json
+F:\Curso de C# Maxi Programa. Basico\Unidad6\CortedeControl\bin\Debug\net8.0\CortedeControl.runtimeconfig.json
+F:\Curso de C# Maxi Programa. Basico\Unidad6\CortedeControl\bin\Debug\net8.0\CortedeControl.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad6\CortedeControl\bin\Debug\net8.0\CortedeControl.pdb
+F:\Curso de C# Maxi Programa. Basico\Unidad6\CortedeControl\obj\Debug\net8.0\CortedeControl.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad6\CortedeControl\obj\Debug\net8.0\refint\CortedeControl.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad6\CortedeControl\obj\Debug\net8.0\CortedeControl.pdb
+F:\Curso de C# Maxi Programa. Basico\Unidad6\CortedeControl\obj\Debug\net8.0\CortedeControl.genruntimeconfig.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad6\CortedeControl\obj\Debug\net8.0\ref\CortedeControl.dll

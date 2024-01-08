@@ -1,0 +1,15 @@
+F:\Curso de C# Maxi Programa. Basico\Unidad6\ciclocommaxi2\obj\Debug\net8.0\ciclocommaxi2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Curso de C# Maxi Programa. Basico\Unidad6\ciclocommaxi2\obj\Debug\net8.0\ciclocommaxi2.AssemblyInfoInputs.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad6\ciclocommaxi2\obj\Debug\net8.0\ciclocommaxi2.AssemblyInfo.cs
+F:\Curso de C# Maxi Programa. Basico\Unidad6\ciclocommaxi2\obj\Debug\net8.0\ciclocommaxi2.csproj.CoreCompileInputs.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad6\ciclocommaxi2\obj\Debug\net8.0\ciclocommaxi2.sourcelink.json
+F:\Curso de C# Maxi Programa. Basico\Unidad6\ciclocommaxi2\bin\Debug\net8.0\ciclocommaxi2.exe
+F:\Curso de C# Maxi Programa. Basico\Unidad6\ciclocommaxi2\bin\Debug\net8.0\ciclocommaxi2.deps.json
+F:\Curso de C# Maxi Programa. Basico\Unidad6\ciclocommaxi2\bin\Debug\net8.0\ciclocommaxi2.runtimeconfig.json
+F:\Curso de C# Maxi Programa. Basico\Unidad6\ciclocommaxi2\bin\Debug\net8.0\ciclocommaxi2.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad6\ciclocommaxi2\bin\Debug\net8.0\ciclocommaxi2.pdb
+F:\Curso de C# Maxi Programa. Basico\Unidad6\ciclocommaxi2\obj\Debug\net8.0\ciclocommaxi2.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad6\ciclocommaxi2\obj\Debug\net8.0\refint\ciclocommaxi2.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad6\ciclocommaxi2\obj\Debug\net8.0\ciclocommaxi2.pdb
+F:\Curso de C# Maxi Programa. Basico\Unidad6\ciclocommaxi2\obj\Debug\net8.0\ciclocommaxi2.genruntimeconfig.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad6\ciclocommaxi2\obj\Debug\net8.0\ref\ciclocommaxi2.dll
