@@ -1,0 +1,14 @@
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\ejemploANDyOR\bin\Debug\net7.0\ejemploANDyOR.exe
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\ejemploANDyOR\bin\Debug\net7.0\ejemploANDyOR.deps.json
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\ejemploANDyOR\bin\Debug\net7.0\ejemploANDyOR.runtimeconfig.json
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\ejemploANDyOR\bin\Debug\net7.0\ejemploANDyOR.dll
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\ejemploANDyOR\bin\Debug\net7.0\ejemploANDyOR.pdb
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\ejemploANDyOR\obj\Debug\net7.0\ejemploANDyOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\ejemploANDyOR\obj\Debug\net7.0\ejemploANDyOR.AssemblyInfoInputs.cache
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\ejemploANDyOR\obj\Debug\net7.0\ejemploANDyOR.AssemblyInfo.cs
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\ejemploANDyOR\obj\Debug\net7.0\ejemploANDyOR.csproj.CoreCompileInputs.cache
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\ejemploANDyOR\obj\Debug\net7.0\ejemploANDyOR.dll
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\ejemploANDyOR\obj\Debug\net7.0\refint\ejemploANDyOR.dll
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\ejemploANDyOR\obj\Debug\net7.0\ejemploANDyOR.pdb
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\ejemploANDyOR\obj\Debug\net7.0\ejemploANDyOR.genruntimeconfig.cache
+C:\Curso basico de C# MAXIPROGRAMA\Unidad4\ejemploANDyOR\obj\Debug\net7.0\ref\ejemploANDyOR.dll

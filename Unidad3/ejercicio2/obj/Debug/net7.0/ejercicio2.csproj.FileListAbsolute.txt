@@ -1,0 +1,14 @@
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\ejercicio2\bin\Debug\net7.0\ejercicio2.exe
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\ejercicio2\bin\Debug\net7.0\ejercicio2.deps.json
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\ejercicio2\bin\Debug\net7.0\ejercicio2.runtimeconfig.json
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\ejercicio2\bin\Debug\net7.0\ejercicio2.dll
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\ejercicio2\bin\Debug\net7.0\ejercicio2.pdb
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\ejercicio2\obj\Debug\net7.0\ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\ejercicio2\obj\Debug\net7.0\ejercicio2.AssemblyInfoInputs.cache
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\ejercicio2\obj\Debug\net7.0\ejercicio2.AssemblyInfo.cs
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\ejercicio2\obj\Debug\net7.0\ejercicio2.csproj.CoreCompileInputs.cache
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\ejercicio2\obj\Debug\net7.0\ejercicio2.dll
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\ejercicio2\obj\Debug\net7.0\refint\ejercicio2.dll
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\ejercicio2\obj\Debug\net7.0\ejercicio2.pdb
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\ejercicio2\obj\Debug\net7.0\ejercicio2.genruntimeconfig.cache
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\ejercicio2\obj\Debug\net7.0\ref\ejercicio2.dll

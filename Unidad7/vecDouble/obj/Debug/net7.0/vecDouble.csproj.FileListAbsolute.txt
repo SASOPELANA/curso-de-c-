@@ -1,0 +1,14 @@
+C:\Curso basico de C# MAXIPROGRAMA\Unidad7\vecDouble\obj\Debug\net7.0\vecDouble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso basico de C# MAXIPROGRAMA\Unidad7\vecDouble\obj\Debug\net7.0\vecDouble.AssemblyInfoInputs.cache
+C:\Curso basico de C# MAXIPROGRAMA\Unidad7\vecDouble\obj\Debug\net7.0\vecDouble.AssemblyInfo.cs
+C:\Curso basico de C# MAXIPROGRAMA\Unidad7\vecDouble\obj\Debug\net7.0\vecDouble.csproj.CoreCompileInputs.cache
+C:\Curso basico de C# MAXIPROGRAMA\Unidad7\vecDouble\bin\Debug\net7.0\vecDouble.exe
+C:\Curso basico de C# MAXIPROGRAMA\Unidad7\vecDouble\bin\Debug\net7.0\vecDouble.deps.json
+C:\Curso basico de C# MAXIPROGRAMA\Unidad7\vecDouble\bin\Debug\net7.0\vecDouble.runtimeconfig.json
+C:\Curso basico de C# MAXIPROGRAMA\Unidad7\vecDouble\bin\Debug\net7.0\vecDouble.dll
+C:\Curso basico de C# MAXIPROGRAMA\Unidad7\vecDouble\bin\Debug\net7.0\vecDouble.pdb
+C:\Curso basico de C# MAXIPROGRAMA\Unidad7\vecDouble\obj\Debug\net7.0\vecDouble.dll
+C:\Curso basico de C# MAXIPROGRAMA\Unidad7\vecDouble\obj\Debug\net7.0\refint\vecDouble.dll
+C:\Curso basico de C# MAXIPROGRAMA\Unidad7\vecDouble\obj\Debug\net7.0\vecDouble.pdb
+C:\Curso basico de C# MAXIPROGRAMA\Unidad7\vecDouble\obj\Debug\net7.0\vecDouble.genruntimeconfig.cache
+C:\Curso basico de C# MAXIPROGRAMA\Unidad7\vecDouble\obj\Debug\net7.0\ref\vecDouble.dll

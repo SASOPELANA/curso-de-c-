@@ -1,0 +1,14 @@
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales5maxi\bin\Debug\net7.0\Condicionales5maxi.exe
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales5maxi\bin\Debug\net7.0\Condicionales5maxi.deps.json
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales5maxi\bin\Debug\net7.0\Condicionales5maxi.runtimeconfig.json
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales5maxi\bin\Debug\net7.0\Condicionales5maxi.dll
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales5maxi\bin\Debug\net7.0\Condicionales5maxi.pdb
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales5maxi\obj\Debug\net7.0\Condicionales5maxi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales5maxi\obj\Debug\net7.0\Condicionales5maxi.AssemblyInfoInputs.cache
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales5maxi\obj\Debug\net7.0\Condicionales5maxi.AssemblyInfo.cs
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales5maxi\obj\Debug\net7.0\Condicionales5maxi.csproj.CoreCompileInputs.cache
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales5maxi\obj\Debug\net7.0\Condicionales5maxi.dll
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales5maxi\obj\Debug\net7.0\refint\Condicionales5maxi.dll
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales5maxi\obj\Debug\net7.0\Condicionales5maxi.pdb
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales5maxi\obj\Debug\net7.0\Condicionales5maxi.genruntimeconfig.cache
+C:\Curso basico de C# MAXIPROGRAMA\Unidad3\Condicionales5maxi\obj\Debug\net7.0\ref\Condicionales5maxi.dll
