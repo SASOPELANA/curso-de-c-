@@ -1,0 +1,15 @@
+F:\Curso de C# Maxi Programa. Basico\Unidad7\mivector\bin\Debug\net8.0\mivector.exe
+F:\Curso de C# Maxi Programa. Basico\Unidad7\mivector\bin\Debug\net8.0\mivector.deps.json
+F:\Curso de C# Maxi Programa. Basico\Unidad7\mivector\bin\Debug\net8.0\mivector.runtimeconfig.json
+F:\Curso de C# Maxi Programa. Basico\Unidad7\mivector\bin\Debug\net8.0\mivector.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad7\mivector\bin\Debug\net8.0\mivector.pdb
+F:\Curso de C# Maxi Programa. Basico\Unidad7\mivector\obj\Debug\net8.0\mivector.GeneratedMSBuildEditorConfig.editorconfig
+F:\Curso de C# Maxi Programa. Basico\Unidad7\mivector\obj\Debug\net8.0\mivector.AssemblyInfoInputs.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad7\mivector\obj\Debug\net8.0\mivector.AssemblyInfo.cs
+F:\Curso de C# Maxi Programa. Basico\Unidad7\mivector\obj\Debug\net8.0\mivector.csproj.CoreCompileInputs.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad7\mivector\obj\Debug\net8.0\mivector.sourcelink.json
+F:\Curso de C# Maxi Programa. Basico\Unidad7\mivector\obj\Debug\net8.0\mivector.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad7\mivector\obj\Debug\net8.0\refint\mivector.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad7\mivector\obj\Debug\net8.0\mivector.pdb
+F:\Curso de C# Maxi Programa. Basico\Unidad7\mivector\obj\Debug\net8.0\mivector.genruntimeconfig.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad7\mivector\obj\Debug\net8.0\ref\mivector.dll

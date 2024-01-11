@@ -1,0 +1,15 @@
+F:\Curso de C# Maxi Programa. Basico\Unidad7\vecejemplo1\bin\Debug\net8.0\vecejemplo1.exe
+F:\Curso de C# Maxi Programa. Basico\Unidad7\vecejemplo1\bin\Debug\net8.0\vecejemplo1.deps.json
+F:\Curso de C# Maxi Programa. Basico\Unidad7\vecejemplo1\bin\Debug\net8.0\vecejemplo1.runtimeconfig.json
+F:\Curso de C# Maxi Programa. Basico\Unidad7\vecejemplo1\bin\Debug\net8.0\vecejemplo1.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad7\vecejemplo1\bin\Debug\net8.0\vecejemplo1.pdb
+F:\Curso de C# Maxi Programa. Basico\Unidad7\vecejemplo1\obj\Debug\net8.0\vecejemplo1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Curso de C# Maxi Programa. Basico\Unidad7\vecejemplo1\obj\Debug\net8.0\vecejemplo1.AssemblyInfoInputs.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad7\vecejemplo1\obj\Debug\net8.0\vecejemplo1.AssemblyInfo.cs
+F:\Curso de C# Maxi Programa. Basico\Unidad7\vecejemplo1\obj\Debug\net8.0\vecejemplo1.csproj.CoreCompileInputs.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad7\vecejemplo1\obj\Debug\net8.0\vecejemplo1.sourcelink.json
+F:\Curso de C# Maxi Programa. Basico\Unidad7\vecejemplo1\obj\Debug\net8.0\vecejemplo1.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad7\vecejemplo1\obj\Debug\net8.0\refint\vecejemplo1.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad7\vecejemplo1\obj\Debug\net8.0\vecejemplo1.pdb
+F:\Curso de C# Maxi Programa. Basico\Unidad7\vecejemplo1\obj\Debug\net8.0\vecejemplo1.genruntimeconfig.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad7\vecejemplo1\obj\Debug\net8.0\ref\vecejemplo1.dll
