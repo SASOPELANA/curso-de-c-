@@ -1,0 +1,15 @@
+F:\Curso de C# Maxi Programa. Basico\Unidad7\cadenaCaracteres\bin\Debug\net8.0\cadenaCaracteres.exe
+F:\Curso de C# Maxi Programa. Basico\Unidad7\cadenaCaracteres\bin\Debug\net8.0\cadenaCaracteres.deps.json
+F:\Curso de C# Maxi Programa. Basico\Unidad7\cadenaCaracteres\bin\Debug\net8.0\cadenaCaracteres.runtimeconfig.json
+F:\Curso de C# Maxi Programa. Basico\Unidad7\cadenaCaracteres\bin\Debug\net8.0\cadenaCaracteres.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad7\cadenaCaracteres\bin\Debug\net8.0\cadenaCaracteres.pdb
+F:\Curso de C# Maxi Programa. Basico\Unidad7\cadenaCaracteres\obj\Debug\net8.0\cadenaCaracteres.GeneratedMSBuildEditorConfig.editorconfig
+F:\Curso de C# Maxi Programa. Basico\Unidad7\cadenaCaracteres\obj\Debug\net8.0\cadenaCaracteres.AssemblyInfoInputs.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad7\cadenaCaracteres\obj\Debug\net8.0\cadenaCaracteres.AssemblyInfo.cs
+F:\Curso de C# Maxi Programa. Basico\Unidad7\cadenaCaracteres\obj\Debug\net8.0\cadenaCaracteres.csproj.CoreCompileInputs.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad7\cadenaCaracteres\obj\Debug\net8.0\cadenaCaracteres.sourcelink.json
+F:\Curso de C# Maxi Programa. Basico\Unidad7\cadenaCaracteres\obj\Debug\net8.0\cadenaCaracteres.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad7\cadenaCaracteres\obj\Debug\net8.0\refint\cadenaCaracteres.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad7\cadenaCaracteres\obj\Debug\net8.0\cadenaCaracteres.pdb
+F:\Curso de C# Maxi Programa. Basico\Unidad7\cadenaCaracteres\obj\Debug\net8.0\cadenaCaracteres.genruntimeconfig.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad7\cadenaCaracteres\obj\Debug\net8.0\ref\cadenaCaracteres.dll

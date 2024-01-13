@@ -1,0 +1,15 @@
+F:\Curso de C# Maxi Programa. Basico\Unidad7\vec1\bin\Debug\net8.0\vec1.exe
+F:\Curso de C# Maxi Programa. Basico\Unidad7\vec1\bin\Debug\net8.0\vec1.deps.json
+F:\Curso de C# Maxi Programa. Basico\Unidad7\vec1\bin\Debug\net8.0\vec1.runtimeconfig.json
+F:\Curso de C# Maxi Programa. Basico\Unidad7\vec1\bin\Debug\net8.0\vec1.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad7\vec1\bin\Debug\net8.0\vec1.pdb
+F:\Curso de C# Maxi Programa. Basico\Unidad7\vec1\obj\Debug\net8.0\vec1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Curso de C# Maxi Programa. Basico\Unidad7\vec1\obj\Debug\net8.0\vec1.AssemblyInfoInputs.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad7\vec1\obj\Debug\net8.0\vec1.AssemblyInfo.cs
+F:\Curso de C# Maxi Programa. Basico\Unidad7\vec1\obj\Debug\net8.0\vec1.csproj.CoreCompileInputs.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad7\vec1\obj\Debug\net8.0\vec1.sourcelink.json
+F:\Curso de C# Maxi Programa. Basico\Unidad7\vec1\obj\Debug\net8.0\vec1.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad7\vec1\obj\Debug\net8.0\refint\vec1.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad7\vec1\obj\Debug\net8.0\vec1.pdb
+F:\Curso de C# Maxi Programa. Basico\Unidad7\vec1\obj\Debug\net8.0\vec1.genruntimeconfig.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad7\vec1\obj\Debug\net8.0\ref\vec1.dll

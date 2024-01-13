@@ -1,0 +1,15 @@
+F:\Curso de C# Maxi Programa. Basico\Unidad7\VEC1MAXI\obj\Debug\net8.0\VEC1MAXI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Curso de C# Maxi Programa. Basico\Unidad7\VEC1MAXI\obj\Debug\net8.0\VEC1MAXI.AssemblyInfoInputs.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad7\VEC1MAXI\obj\Debug\net8.0\VEC1MAXI.AssemblyInfo.cs
+F:\Curso de C# Maxi Programa. Basico\Unidad7\VEC1MAXI\obj\Debug\net8.0\VEC1MAXI.csproj.CoreCompileInputs.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad7\VEC1MAXI\obj\Debug\net8.0\VEC1MAXI.sourcelink.json
+F:\Curso de C# Maxi Programa. Basico\Unidad7\VEC1MAXI\bin\Debug\net8.0\VEC1MAXI.exe
+F:\Curso de C# Maxi Programa. Basico\Unidad7\VEC1MAXI\bin\Debug\net8.0\VEC1MAXI.deps.json
+F:\Curso de C# Maxi Programa. Basico\Unidad7\VEC1MAXI\bin\Debug\net8.0\VEC1MAXI.runtimeconfig.json
+F:\Curso de C# Maxi Programa. Basico\Unidad7\VEC1MAXI\bin\Debug\net8.0\VEC1MAXI.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad7\VEC1MAXI\bin\Debug\net8.0\VEC1MAXI.pdb
+F:\Curso de C# Maxi Programa. Basico\Unidad7\VEC1MAXI\obj\Debug\net8.0\VEC1MAXI.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad7\VEC1MAXI\obj\Debug\net8.0\refint\VEC1MAXI.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad7\VEC1MAXI\obj\Debug\net8.0\VEC1MAXI.pdb
+F:\Curso de C# Maxi Programa. Basico\Unidad7\VEC1MAXI\obj\Debug\net8.0\VEC1MAXI.genruntimeconfig.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad7\VEC1MAXI\obj\Debug\net8.0\ref\VEC1MAXI.dll

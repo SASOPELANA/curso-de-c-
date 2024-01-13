@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "VEC2MAXI/1.0.0": {
+        "runtime": {
+          "VEC2MAXI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VEC2MAXI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

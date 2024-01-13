@@ -1,0 +1,15 @@
+F:\Curso de C# Maxi Programa. Basico\Unidad7\cadenaejCHATGPT\bin\Debug\net8.0\cadenaejCHATGPT.exe
+F:\Curso de C# Maxi Programa. Basico\Unidad7\cadenaejCHATGPT\bin\Debug\net8.0\cadenaejCHATGPT.deps.json
+F:\Curso de C# Maxi Programa. Basico\Unidad7\cadenaejCHATGPT\bin\Debug\net8.0\cadenaejCHATGPT.runtimeconfig.json
+F:\Curso de C# Maxi Programa. Basico\Unidad7\cadenaejCHATGPT\bin\Debug\net8.0\cadenaejCHATGPT.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad7\cadenaejCHATGPT\bin\Debug\net8.0\cadenaejCHATGPT.pdb
+F:\Curso de C# Maxi Programa. Basico\Unidad7\cadenaejCHATGPT\obj\Debug\net8.0\cadenaejCHATGPT.GeneratedMSBuildEditorConfig.editorconfig
+F:\Curso de C# Maxi Programa. Basico\Unidad7\cadenaejCHATGPT\obj\Debug\net8.0\cadenaejCHATGPT.AssemblyInfoInputs.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad7\cadenaejCHATGPT\obj\Debug\net8.0\cadenaejCHATGPT.AssemblyInfo.cs
+F:\Curso de C# Maxi Programa. Basico\Unidad7\cadenaejCHATGPT\obj\Debug\net8.0\cadenaejCHATGPT.csproj.CoreCompileInputs.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad7\cadenaejCHATGPT\obj\Debug\net8.0\cadenaejCHATGPT.sourcelink.json
+F:\Curso de C# Maxi Programa. Basico\Unidad7\cadenaejCHATGPT\obj\Debug\net8.0\cadenaejCHATGPT.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad7\cadenaejCHATGPT\obj\Debug\net8.0\refint\cadenaejCHATGPT.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad7\cadenaejCHATGPT\obj\Debug\net8.0\cadenaejCHATGPT.pdb
+F:\Curso de C# Maxi Programa. Basico\Unidad7\cadenaejCHATGPT\obj\Debug\net8.0\cadenaejCHATGPT.genruntimeconfig.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad7\cadenaejCHATGPT\obj\Debug\net8.0\ref\cadenaejCHATGPT.dll
