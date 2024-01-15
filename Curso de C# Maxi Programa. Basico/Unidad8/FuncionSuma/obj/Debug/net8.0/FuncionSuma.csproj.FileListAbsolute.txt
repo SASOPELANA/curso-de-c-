@@ -1,0 +1,15 @@
+F:\Curso de C# Maxi Programa. Basico\Unidad8\FuncionSuma\obj\Debug\net8.0\FuncionSuma.GeneratedMSBuildEditorConfig.editorconfig
+F:\Curso de C# Maxi Programa. Basico\Unidad8\FuncionSuma\obj\Debug\net8.0\FuncionSuma.AssemblyInfoInputs.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad8\FuncionSuma\obj\Debug\net8.0\FuncionSuma.AssemblyInfo.cs
+F:\Curso de C# Maxi Programa. Basico\Unidad8\FuncionSuma\obj\Debug\net8.0\FuncionSuma.csproj.CoreCompileInputs.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad8\FuncionSuma\obj\Debug\net8.0\FuncionSuma.sourcelink.json
+F:\Curso de C# Maxi Programa. Basico\Unidad8\FuncionSuma\bin\Debug\net8.0\FuncionSuma.exe
+F:\Curso de C# Maxi Programa. Basico\Unidad8\FuncionSuma\bin\Debug\net8.0\FuncionSuma.deps.json
+F:\Curso de C# Maxi Programa. Basico\Unidad8\FuncionSuma\bin\Debug\net8.0\FuncionSuma.runtimeconfig.json
+F:\Curso de C# Maxi Programa. Basico\Unidad8\FuncionSuma\bin\Debug\net8.0\FuncionSuma.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad8\FuncionSuma\bin\Debug\net8.0\FuncionSuma.pdb
+F:\Curso de C# Maxi Programa. Basico\Unidad8\FuncionSuma\obj\Debug\net8.0\FuncionSuma.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad8\FuncionSuma\obj\Debug\net8.0\refint\FuncionSuma.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad8\FuncionSuma\obj\Debug\net8.0\FuncionSuma.pdb
+F:\Curso de C# Maxi Programa. Basico\Unidad8\FuncionSuma\obj\Debug\net8.0\FuncionSuma.genruntimeconfig.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad8\FuncionSuma\obj\Debug\net8.0\ref\FuncionSuma.dll
