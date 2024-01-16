@@ -1,0 +1,15 @@
+F:\Curso de C# Maxi Programa. Basico\Examen\examen1\bin\Debug\net8.0\examen1.exe
+F:\Curso de C# Maxi Programa. Basico\Examen\examen1\bin\Debug\net8.0\examen1.deps.json
+F:\Curso de C# Maxi Programa. Basico\Examen\examen1\bin\Debug\net8.0\examen1.runtimeconfig.json
+F:\Curso de C# Maxi Programa. Basico\Examen\examen1\bin\Debug\net8.0\examen1.dll
+F:\Curso de C# Maxi Programa. Basico\Examen\examen1\bin\Debug\net8.0\examen1.pdb
+F:\Curso de C# Maxi Programa. Basico\Examen\examen1\obj\Debug\net8.0\examen1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Curso de C# Maxi Programa. Basico\Examen\examen1\obj\Debug\net8.0\examen1.AssemblyInfoInputs.cache
+F:\Curso de C# Maxi Programa. Basico\Examen\examen1\obj\Debug\net8.0\examen1.AssemblyInfo.cs
+F:\Curso de C# Maxi Programa. Basico\Examen\examen1\obj\Debug\net8.0\examen1.csproj.CoreCompileInputs.cache
+F:\Curso de C# Maxi Programa. Basico\Examen\examen1\obj\Debug\net8.0\examen1.sourcelink.json
+F:\Curso de C# Maxi Programa. Basico\Examen\examen1\obj\Debug\net8.0\examen1.dll
+F:\Curso de C# Maxi Programa. Basico\Examen\examen1\obj\Debug\net8.0\refint\examen1.dll
+F:\Curso de C# Maxi Programa. Basico\Examen\examen1\obj\Debug\net8.0\examen1.pdb
+F:\Curso de C# Maxi Programa. Basico\Examen\examen1\obj\Debug\net8.0\examen1.genruntimeconfig.cache
+F:\Curso de C# Maxi Programa. Basico\Examen\examen1\obj\Debug\net8.0\ref\examen1.dll
