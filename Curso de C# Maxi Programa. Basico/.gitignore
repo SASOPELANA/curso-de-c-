@@ -1,0 +1,51 @@
+# Carpeta de salida
+out/
+
+# Carpeta node_modules generada por npm
+node_modules/
+
+# Carpeta de archivos de respaldo
+.vscode/
+
+# Carpeta de archivos compilados TypeScript
+*.js
+*.js.map
+
+# Carpeta de archivos compilados JavaScript (para proyectos TypeScript)
+dist/
+
+# Carpeta de cobertura generada por herramientas de prueba
+coverage/
+
+# Carpeta de archivos generados por la extensión Python
+__pycache__/
+
+# Carpeta de archivos generados por la extensión Java
+bin/
+lib/
+
+# Carpeta de archivos generados por la extensión C#
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.user
+*.suo
+*.bak
+*.tmp
+
+# Carpeta de archivos generados por la extensión .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Carpeta de archivos generados por la extensión PHP
+*.sublime-workspace
+*.sublime-project
+
+# Carpeta de archivos generados por la extensión Ruby
+*.gem
+*.rbc
+*.rbo
+*.yarb
