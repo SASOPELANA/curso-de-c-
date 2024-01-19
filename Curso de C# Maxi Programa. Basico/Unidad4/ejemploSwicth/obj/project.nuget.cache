@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "SVKkAT3LUni9vrhDrF1p6za91IzIwnFan/asIKuJ1ijEtvjimOVBk41rLAEcFWMrYO4EstHcv29R4Jy8VfbMPw==",
+  "dgSpecHash": "RnpuzJ0H5pdaDeJDjO6ZQKSAnPAZbcmINsvdpKXWQotS2/5Ad7hYGbg8Rp4eNZBr1+RnIqnj/Os/gwBz1Qg5lQ==",
   "success": true,
   "projectFilePath": "F:\\Curso de C# Maxi Programa. Basico\\Unidad4\\ejemploSwicth\\ejemploSwicth.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\sergio\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\sergio\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\sergio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\sergio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

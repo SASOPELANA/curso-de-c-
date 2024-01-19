@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "aCuDhy9gLpujC0GZzskwmfox/0WlN1IHvXfD4tsUAWv03qtW5HrCmW2eaUzdfe+OJ69Td8Dk+OCAsJ3Oqd+ycQ==",
+  "dgSpecHash": "kAxRowIkVDeq3OaR1fgaOmY1f4mERV+6pFpXqsdBs7U742x0l2PzGG8hmTokHdq8EqsPINSkp57ByQ9vzlwv6Q==",
   "success": true,
-  "projectFilePath": "C:\\Curso basico de C# MAXIPROGRAMA\\Unidad7\\vecDouble\\vecDouble.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\Curso de C# Maxi Programa. Basico\\Unidad7\\vecDouble\\vecDouble.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sergio\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\sergio\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\sergio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\sergio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

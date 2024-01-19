@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Curso de C# Maxi Programa. Basico\\calculadora\\calculadora.csproj": {}
+    "F:\\Curso de C# Maxi Programa. Basico\\primer-programa\\calculadora\\calculadora.csproj": {}
   },
   "projects": {
-    "F:\\Curso de C# Maxi Programa. Basico\\calculadora\\calculadora.csproj": {
+    "F:\\Curso de C# Maxi Programa. Basico\\primer-programa\\calculadora\\calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Curso de C# Maxi Programa. Basico\\calculadora\\calculadora.csproj",
+        "projectUniqueName": "F:\\Curso de C# Maxi Programa. Basico\\primer-programa\\calculadora\\calculadora.csproj",
         "projectName": "calculadora",
-        "projectPath": "F:\\Curso de C# Maxi Programa. Basico\\calculadora\\calculadora.csproj",
+        "projectPath": "F:\\Curso de C# Maxi Programa. Basico\\primer-programa\\calculadora\\calculadora.csproj",
         "packagesPath": "C:\\Users\\sergio\\.nuget\\packages\\",
-        "outputPath": "F:\\Curso de C# Maxi Programa. Basico\\calculadora\\obj\\",
+        "outputPath": "F:\\Curso de C# Maxi Programa. Basico\\primer-programa\\calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sergio\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

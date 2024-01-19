@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ciclocommaxi2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f79ec5177d6e80c65fe946a420fc895cb531a80d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ciclocommaxi2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ciclocommaxi2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

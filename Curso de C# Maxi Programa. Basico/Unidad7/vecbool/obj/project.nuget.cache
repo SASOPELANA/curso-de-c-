@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "JktqB6mfOTtr4fhOZeGKGuUcWtnphGYqaAkQmA+pjqaSuoGA3vwAznTfYlCKmW0PokuwKyC4FzwfAv9kuzh3zw==",
+  "dgSpecHash": "qXeh1I//rc2yY5A2Z0tfCmDd6lvaLy53i9vF8WSHXViXVrafjjRue8qwj39EJe98DQLkVV+oU2WUKB9Qr7n2ZA==",
   "success": true,
-  "projectFilePath": "C:\\Curso basico de C# MAXIPROGRAMA\\Unidad7\\vecbool\\vecbool.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\Curso de C# Maxi Programa. Basico\\Unidad7\\vecbool\\vecbool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sergio\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\sergio\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\sergio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\sergio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

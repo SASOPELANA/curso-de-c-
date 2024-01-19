@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = actividad_tres
-build_property.ProjectDir = F:\Curso de C# Maxi Programa. Basico\actividad-tres\
+build_property.ProjectDir = F:\Curso de C# Maxi Programa. Basico\primer-programa\actividad-tres\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

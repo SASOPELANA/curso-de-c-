@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/sopekof/.nuget/packages/": {}
+    "C:\\Users\\sergio\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/f/Curso de C# Maxi Programa. Basico/Unidad6/ciclocommaxi1/ciclocommaxi1.csproj",
+      "projectUniqueName": "F:\\Curso de C# Maxi Programa. Basico\\Unidad6\\ciclocommaxi1\\ciclocommaxi1.csproj",
       "projectName": "ciclocommaxi1",
-      "projectPath": "/mnt/f/Curso de C# Maxi Programa. Basico/Unidad6/ciclocommaxi1/ciclocommaxi1.csproj",
-      "packagesPath": "/home/sopekof/.nuget/packages/",
-      "outputPath": "/mnt/f/Curso de C# Maxi Programa. Basico/Unidad6/ciclocommaxi1/obj/",
+      "projectPath": "F:\\Curso de C# Maxi Programa. Basico\\Unidad6\\ciclocommaxi1\\ciclocommaxi1.csproj",
+      "packagesPath": "C:\\Users\\sergio\\.nuget\\packages\\",
+      "outputPath": "F:\\Curso de C# Maxi Programa. Basico\\Unidad6\\ciclocommaxi1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/sopekof/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\sergio\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "yuJIcJj5RjVOAcrmGhAcdEFKgel8PyjEmp6H3UsHebPrzBN+/u4UaUhZv9+zbyTJWDJ/MzLFnyw5XDMXuItKAg==",
+  "dgSpecHash": "/vS7AHkZGlIgQJBOmsZOdn0DjeVwtlX9Bn8ZMYT0WBbzm9TggmAb5YB34xHBkaj/XsJ2v2Fos1XC25/L62NuqQ==",
   "success": true,
-  "projectFilePath": "C:\\Curso basico de C# MAXIPROGRAMA\\Unidad3\\Condicionales5maxi\\Condicionales5maxi.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\Curso de C# Maxi Programa. Basico\\Unidad3\\Condicionales5maxi\\Condicionales5maxi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sergio\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\sergio\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\sergio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\sergio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

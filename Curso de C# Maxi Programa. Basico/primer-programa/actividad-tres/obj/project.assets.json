@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Curso de C# Maxi Programa. Basico\\actividad-tres\\actividad-tres.csproj",
+      "projectUniqueName": "F:\\Curso de C# Maxi Programa. Basico\\primer-programa\\actividad-tres\\actividad-tres.csproj",
       "projectName": "actividad-tres",
-      "projectPath": "F:\\Curso de C# Maxi Programa. Basico\\actividad-tres\\actividad-tres.csproj",
+      "projectPath": "F:\\Curso de C# Maxi Programa. Basico\\primer-programa\\actividad-tres\\actividad-tres.csproj",
       "packagesPath": "C:\\Users\\sergio\\.nuget\\packages\\",
-      "outputPath": "F:\\Curso de C# Maxi Programa. Basico\\actividad-tres\\obj\\",
+      "outputPath": "F:\\Curso de C# Maxi Programa. Basico\\primer-programa\\actividad-tres\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sergio\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

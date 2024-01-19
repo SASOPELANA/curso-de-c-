@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cicloformaxi4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0027f867dfc93ba90f7158c2ef7bb39a12d8d5c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("cicloformaxi4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cicloformaxi4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

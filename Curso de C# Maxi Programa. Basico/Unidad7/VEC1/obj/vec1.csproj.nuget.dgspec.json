@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Curso de C# Maxi Programa. Basico\\Unidad7\\vec1\\vec1.csproj": {}
+    "F:\\Curso de C# Maxi Programa. Basico\\Unidad7\\VEC1\\vec1.csproj": {}
   },
   "projects": {
-    "F:\\Curso de C# Maxi Programa. Basico\\Unidad7\\vec1\\vec1.csproj": {
+    "F:\\Curso de C# Maxi Programa. Basico\\Unidad7\\VEC1\\vec1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Curso de C# Maxi Programa. Basico\\Unidad7\\vec1\\vec1.csproj",
+        "projectUniqueName": "F:\\Curso de C# Maxi Programa. Basico\\Unidad7\\VEC1\\vec1.csproj",
         "projectName": "vec1",
-        "projectPath": "F:\\Curso de C# Maxi Programa. Basico\\Unidad7\\vec1\\vec1.csproj",
+        "projectPath": "F:\\Curso de C# Maxi Programa. Basico\\Unidad7\\VEC1\\vec1.csproj",
         "packagesPath": "C:\\Users\\sergio\\.nuget\\packages\\",
-        "outputPath": "F:\\Curso de C# Maxi Programa. Basico\\Unidad7\\vec1\\obj\\",
+        "outputPath": "F:\\Curso de C# Maxi Programa. Basico\\Unidad7\\VEC1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sergio\\AppData\\Roaming\\NuGet\\NuGet.Config"

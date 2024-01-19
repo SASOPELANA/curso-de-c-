@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XoKzku1KCxt3gZogABU/mU2IJdx6Go+hhmbL9m9FFWeQLNhwD2rg+JCKfNzP3goKEMJqLFRbxFnO+19AVzrVjg==",
+  "dgSpecHash": "Ge1rpdyjD1hzx4Ouvr995qmLFD29HVK/eUuDPPyMLvhfYDQk5cqC02OxmYHij2gW5HjX65cWIPFJvqcFnvplnA==",
   "success": true,
-  "projectFilePath": "F:\\Curso de C# Maxi Programa. Basico\\calculadora\\calculadora.csproj",
+  "projectFilePath": "F:\\Curso de C# Maxi Programa. Basico\\primer-programa\\calculadora\\calculadora.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

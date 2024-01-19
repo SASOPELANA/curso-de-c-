@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Curso basico de C# MAXIPROGRAMA\\Unidad3\\Condicionales5maxi\\Condicionales5maxi.csproj": {}
+    "F:\\Curso de C# Maxi Programa. Basico\\Unidad3\\Condicionales5maxi\\Condicionales5maxi.csproj": {}
   },
   "projects": {
-    "C:\\Curso basico de C# MAXIPROGRAMA\\Unidad3\\Condicionales5maxi\\Condicionales5maxi.csproj": {
+    "F:\\Curso de C# Maxi Programa. Basico\\Unidad3\\Condicionales5maxi\\Condicionales5maxi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Curso basico de C# MAXIPROGRAMA\\Unidad3\\Condicionales5maxi\\Condicionales5maxi.csproj",
+        "projectUniqueName": "F:\\Curso de C# Maxi Programa. Basico\\Unidad3\\Condicionales5maxi\\Condicionales5maxi.csproj",
         "projectName": "Condicionales5maxi",
-        "projectPath": "C:\\Curso basico de C# MAXIPROGRAMA\\Unidad3\\Condicionales5maxi\\Condicionales5maxi.csproj",
-        "packagesPath": "C:\\Users\\NETBOOK\\.nuget\\packages\\",
-        "outputPath": "C:\\Curso basico de C# MAXIPROGRAMA\\Unidad3\\Condicionales5maxi\\obj\\",
+        "projectPath": "F:\\Curso de C# Maxi Programa. Basico\\Unidad3\\Condicionales5maxi\\Condicionales5maxi.csproj",
+        "packagesPath": "C:\\Users\\sergio\\.nuget\\packages\\",
+        "outputPath": "F:\\Curso de C# Maxi Programa. Basico\\Unidad3\\Condicionales5maxi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\NETBOOK\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\sergio\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -48,12 +48,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "fnznLx1ekHNQlbnppm8L+SW36U0hkuiElVKCVB1CLkR/cFOOKn/YhCVjSehNVAEKVbEC+TvXkQkt0TLA5MilXw==",
+  "dgSpecHash": "pD8wYwxz21ztcMmNHw8YvghewwpwwIE65idrVrPP3IjftWv3YvISf2osN2B0aU2Huf8MSsawFhrSZ+2Aj5iCzg==",
   "success": true,
   "projectFilePath": "F:\\Curso de C# Maxi Programa. Basico\\Unidad5\\ciclowhile1\\ciclowhile1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\sergio\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\sergio\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\sergio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\sergio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

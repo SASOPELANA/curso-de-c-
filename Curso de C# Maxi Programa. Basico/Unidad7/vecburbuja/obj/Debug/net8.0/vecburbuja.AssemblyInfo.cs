@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("vecburbuja")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+745516216cf3766693f76a20e607471fd098e397")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("vecburbuja")]
 [assembly: System.Reflection.AssemblyTitleAttribute("vecburbuja")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
