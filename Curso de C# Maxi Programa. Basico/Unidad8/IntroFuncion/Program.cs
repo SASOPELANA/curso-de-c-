@@ -17,14 +17,17 @@ namespace IntroFuncion
         // Cuerpo.
         // Definicion / Logica.
         // Opcional: retorno de valores / Resultados.
-        // int n =  devolverUno();
 
-        Console.WriteLine("Fin del programa: " + devolverUno()); // asi se llama a la funcion.
+        int n =  devolverUno();
+        Console.WriteLine("Fin del programa: " + n);
+
+        //Console.WriteLine("Fin del programa: " + devolverUno()); // asi se llama a la funcion.
 
         }
 
-        static int devolverUno(){  // Funcion para a llamar. Siempre fuera de la funcion principal Main, fuera de sus llaaves del programa.
-            int numero = 500;
+        static int devolverUno()
+        {  // Funcion para a llamar. Siempre fuera de la funcion principal Main, fuera de sus llaaves del programa.
+            int numero = 1;
             return numero;
         }
     }
