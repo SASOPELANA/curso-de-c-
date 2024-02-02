@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FuncionSuma")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ea38365076445e11c4e94054be55bc97492dd15")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d876a5080de27d73128b09c79997d603b78b8ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("FuncionSuma")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FuncionSuma")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

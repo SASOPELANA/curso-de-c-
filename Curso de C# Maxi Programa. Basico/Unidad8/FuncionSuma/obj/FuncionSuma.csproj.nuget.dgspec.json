@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Curso de C# Maxi Programa. Basico\\Unidad8\\FuncionSuma\\FuncionSuma.csproj": {}
+    "F:\\Curso de C# Maxi Programa. Basico\\Curso de C# Maxi Programa. Basico\\Unidad8\\FuncionSuma\\FuncionSuma.csproj": {}
   },
   "projects": {
-    "F:\\Curso de C# Maxi Programa. Basico\\Unidad8\\FuncionSuma\\FuncionSuma.csproj": {
+    "F:\\Curso de C# Maxi Programa. Basico\\Curso de C# Maxi Programa. Basico\\Unidad8\\FuncionSuma\\FuncionSuma.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Curso de C# Maxi Programa. Basico\\Unidad8\\FuncionSuma\\FuncionSuma.csproj",
+        "projectUniqueName": "F:\\Curso de C# Maxi Programa. Basico\\Curso de C# Maxi Programa. Basico\\Unidad8\\FuncionSuma\\FuncionSuma.csproj",
         "projectName": "FuncionSuma",
-        "projectPath": "F:\\Curso de C# Maxi Programa. Basico\\Unidad8\\FuncionSuma\\FuncionSuma.csproj",
+        "projectPath": "F:\\Curso de C# Maxi Programa. Basico\\Curso de C# Maxi Programa. Basico\\Unidad8\\FuncionSuma\\FuncionSuma.csproj",
         "packagesPath": "C:\\Users\\sergio\\.nuget\\packages\\",
-        "outputPath": "F:\\Curso de C# Maxi Programa. Basico\\Unidad8\\FuncionSuma\\obj\\",
+        "outputPath": "F:\\Curso de C# Maxi Programa. Basico\\Curso de C# Maxi Programa. Basico\\Unidad8\\FuncionSuma\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sergio\\AppData\\Roaming\\NuGet\\NuGet.Config",

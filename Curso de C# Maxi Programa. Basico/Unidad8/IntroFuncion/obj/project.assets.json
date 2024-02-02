@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Curso de C# Maxi Programa. Basico\\Unidad8\\IntroFuncion\\IntroFuncion.csproj",
+      "projectUniqueName": "F:\\Curso de C# Maxi Programa. Basico\\Curso de C# Maxi Programa. Basico\\Unidad8\\IntroFuncion\\IntroFuncion.csproj",
       "projectName": "IntroFuncion",
-      "projectPath": "F:\\Curso de C# Maxi Programa. Basico\\Unidad8\\IntroFuncion\\IntroFuncion.csproj",
+      "projectPath": "F:\\Curso de C# Maxi Programa. Basico\\Curso de C# Maxi Programa. Basico\\Unidad8\\IntroFuncion\\IntroFuncion.csproj",
       "packagesPath": "C:\\Users\\sergio\\.nuget\\packages\\",
-      "outputPath": "F:\\Curso de C# Maxi Programa. Basico\\Unidad8\\IntroFuncion\\obj\\",
+      "outputPath": "F:\\Curso de C# Maxi Programa. Basico\\Curso de C# Maxi Programa. Basico\\Unidad8\\IntroFuncion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sergio\\AppData\\Roaming\\NuGet\\NuGet.Config",
