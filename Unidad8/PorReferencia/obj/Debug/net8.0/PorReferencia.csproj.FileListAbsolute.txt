@@ -1,0 +1,15 @@
+F:\Curso de C# Maxi Programa. Basico\Unidad8\PorReferencia\bin\Debug\net8.0\PorReferencia.exe
+F:\Curso de C# Maxi Programa. Basico\Unidad8\PorReferencia\bin\Debug\net8.0\PorReferencia.deps.json
+F:\Curso de C# Maxi Programa. Basico\Unidad8\PorReferencia\bin\Debug\net8.0\PorReferencia.runtimeconfig.json
+F:\Curso de C# Maxi Programa. Basico\Unidad8\PorReferencia\bin\Debug\net8.0\PorReferencia.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad8\PorReferencia\bin\Debug\net8.0\PorReferencia.pdb
+F:\Curso de C# Maxi Programa. Basico\Unidad8\PorReferencia\obj\Debug\net8.0\PorReferencia.GeneratedMSBuildEditorConfig.editorconfig
+F:\Curso de C# Maxi Programa. Basico\Unidad8\PorReferencia\obj\Debug\net8.0\PorReferencia.AssemblyInfoInputs.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad8\PorReferencia\obj\Debug\net8.0\PorReferencia.AssemblyInfo.cs
+F:\Curso de C# Maxi Programa. Basico\Unidad8\PorReferencia\obj\Debug\net8.0\PorReferencia.csproj.CoreCompileInputs.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad8\PorReferencia\obj\Debug\net8.0\PorReferencia.sourcelink.json
+F:\Curso de C# Maxi Programa. Basico\Unidad8\PorReferencia\obj\Debug\net8.0\PorReferencia.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad8\PorReferencia\obj\Debug\net8.0\refint\PorReferencia.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad8\PorReferencia\obj\Debug\net8.0\PorReferencia.pdb
+F:\Curso de C# Maxi Programa. Basico\Unidad8\PorReferencia\obj\Debug\net8.0\PorReferencia.genruntimeconfig.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad8\PorReferencia\obj\Debug\net8.0\ref\PorReferencia.dll

@@ -1,0 +1,15 @@
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad8/Ejercicio2/obj/Debug/net8.0/Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad8/Ejercicio2/obj/Debug/net8.0/Ejercicio2.AssemblyInfoInputs.cache
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad8/Ejercicio2/obj/Debug/net8.0/Ejercicio2.AssemblyInfo.cs
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad8/Ejercicio2/obj/Debug/net8.0/Ejercicio2.csproj.CoreCompileInputs.cache
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad8/Ejercicio2/obj/Debug/net8.0/Ejercicio2.sourcelink.json
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad8/Ejercicio2/bin/Debug/net8.0/Ejercicio2
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad8/Ejercicio2/bin/Debug/net8.0/Ejercicio2.deps.json
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad8/Ejercicio2/bin/Debug/net8.0/Ejercicio2.runtimeconfig.json
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad8/Ejercicio2/bin/Debug/net8.0/Ejercicio2.dll
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad8/Ejercicio2/bin/Debug/net8.0/Ejercicio2.pdb
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad8/Ejercicio2/obj/Debug/net8.0/Ejercicio2.dll
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad8/Ejercicio2/obj/Debug/net8.0/refint/Ejercicio2.dll
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad8/Ejercicio2/obj/Debug/net8.0/Ejercicio2.pdb
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad8/Ejercicio2/obj/Debug/net8.0/Ejercicio2.genruntimeconfig.cache
+/mnt/f/Curso de C# Maxi Programa. Basico/Unidad8/Ejercicio2/obj/Debug/net8.0/ref/Ejercicio2.dll

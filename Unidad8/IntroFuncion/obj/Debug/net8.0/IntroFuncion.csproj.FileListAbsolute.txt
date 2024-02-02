@@ -1,0 +1,15 @@
+F:\Curso de C# Maxi Programa. Basico\Unidad8\IntroFuncion\bin\Debug\net8.0\IntroFuncion.exe
+F:\Curso de C# Maxi Programa. Basico\Unidad8\IntroFuncion\bin\Debug\net8.0\IntroFuncion.deps.json
+F:\Curso de C# Maxi Programa. Basico\Unidad8\IntroFuncion\bin\Debug\net8.0\IntroFuncion.runtimeconfig.json
+F:\Curso de C# Maxi Programa. Basico\Unidad8\IntroFuncion\bin\Debug\net8.0\IntroFuncion.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad8\IntroFuncion\bin\Debug\net8.0\IntroFuncion.pdb
+F:\Curso de C# Maxi Programa. Basico\Unidad8\IntroFuncion\obj\Debug\net8.0\IntroFuncion.GeneratedMSBuildEditorConfig.editorconfig
+F:\Curso de C# Maxi Programa. Basico\Unidad8\IntroFuncion\obj\Debug\net8.0\IntroFuncion.AssemblyInfoInputs.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad8\IntroFuncion\obj\Debug\net8.0\IntroFuncion.AssemblyInfo.cs
+F:\Curso de C# Maxi Programa. Basico\Unidad8\IntroFuncion\obj\Debug\net8.0\IntroFuncion.csproj.CoreCompileInputs.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad8\IntroFuncion\obj\Debug\net8.0\IntroFuncion.sourcelink.json
+F:\Curso de C# Maxi Programa. Basico\Unidad8\IntroFuncion\obj\Debug\net8.0\IntroFuncion.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad8\IntroFuncion\obj\Debug\net8.0\refint\IntroFuncion.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad8\IntroFuncion\obj\Debug\net8.0\IntroFuncion.pdb
+F:\Curso de C# Maxi Programa. Basico\Unidad8\IntroFuncion\obj\Debug\net8.0\IntroFuncion.genruntimeconfig.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad8\IntroFuncion\obj\Debug\net8.0\ref\IntroFuncion.dll

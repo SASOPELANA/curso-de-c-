@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ejer1maxi/1.0.0": {
+        "runtime": {
+          "ejer1maxi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejer1maxi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

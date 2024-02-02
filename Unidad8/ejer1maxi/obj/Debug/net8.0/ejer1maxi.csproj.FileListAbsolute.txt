@@ -1,0 +1,15 @@
+F:\Curso de C# Maxi Programa. Basico\Unidad8\ejer1maxi\bin\Debug\net8.0\ejer1maxi.exe
+F:\Curso de C# Maxi Programa. Basico\Unidad8\ejer1maxi\bin\Debug\net8.0\ejer1maxi.deps.json
+F:\Curso de C# Maxi Programa. Basico\Unidad8\ejer1maxi\bin\Debug\net8.0\ejer1maxi.runtimeconfig.json
+F:\Curso de C# Maxi Programa. Basico\Unidad8\ejer1maxi\bin\Debug\net8.0\ejer1maxi.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad8\ejer1maxi\bin\Debug\net8.0\ejer1maxi.pdb
+F:\Curso de C# Maxi Programa. Basico\Unidad8\ejer1maxi\obj\Debug\net8.0\ejer1maxi.GeneratedMSBuildEditorConfig.editorconfig
+F:\Curso de C# Maxi Programa. Basico\Unidad8\ejer1maxi\obj\Debug\net8.0\ejer1maxi.AssemblyInfoInputs.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad8\ejer1maxi\obj\Debug\net8.0\ejer1maxi.AssemblyInfo.cs
+F:\Curso de C# Maxi Programa. Basico\Unidad8\ejer1maxi\obj\Debug\net8.0\ejer1maxi.csproj.CoreCompileInputs.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad8\ejer1maxi\obj\Debug\net8.0\ejer1maxi.sourcelink.json
+F:\Curso de C# Maxi Programa. Basico\Unidad8\ejer1maxi\obj\Debug\net8.0\ejer1maxi.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad8\ejer1maxi\obj\Debug\net8.0\refint\ejer1maxi.dll
+F:\Curso de C# Maxi Programa. Basico\Unidad8\ejer1maxi\obj\Debug\net8.0\ejer1maxi.pdb
+F:\Curso de C# Maxi Programa. Basico\Unidad8\ejer1maxi\obj\Debug\net8.0\ejer1maxi.genruntimeconfig.cache
+F:\Curso de C# Maxi Programa. Basico\Unidad8\ejer1maxi\obj\Debug\net8.0\ref\ejer1maxi.dll
